@@ -15,7 +15,7 @@
                     </select>
                 </div>
                 <div class="pull-right">
-                <input style="width: 100px" ng-model="search[queryBy]" type="text" class="form-control" placeholder="Search"></div>
+                <input style="width: 10px" ng-model="search[queryBy]" type="text" class="form-control" placeholder="Search"></div>
                     <br><br>
                 <table id="search" class='table table-bordered table-hover'>
                     <thead> 
